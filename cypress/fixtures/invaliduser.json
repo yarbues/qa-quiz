@@ -1,0 +1,4 @@
+{
+    "invalid_user1": {"username": "yves", "password": "Default"},
+    "invalid_user2": {"username": "jane", "password": "Default"}
+}
